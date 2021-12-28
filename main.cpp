@@ -1,6 +1,6 @@
-#include "Blockchain.h"
+#include "./Blockchain/Blockchain.h"
 #include <iostream>
-#include "sha256.h"
+#include "./SHA256/sha256.h"
 #include <sstream>
 
 int main()
